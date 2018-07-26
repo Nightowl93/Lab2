@@ -1,3 +1,6 @@
+/* Shontinique Uqdah
+ * 07/17/2018
+ */
 package co.grandcircus.Lab2;
 
 import java.util.Scanner;
